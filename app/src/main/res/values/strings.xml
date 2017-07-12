@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverUi</string>
+    <string name="click">click</string>
+</resources>
